@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/21 PROJECTS" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/DAY 1 - DATA STORYTELLING TITANIC SURVIVAL/21-Days-21-Projects-Dataset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DAY 1 - DATA STORYTELLING TITANIC SURVIVAL/DATASET" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python 3.12" vcs="Git" />
   </component>
 </project>
